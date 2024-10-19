@@ -14,7 +14,7 @@ player_right_selected = irandom_range(0,3)//irandom_range(0,3)
 // never same initial choice
 while(player_left_selected == player_right_selected)
 {
-	player_right_selected = irandom_range(0,1)//irandom_range(0,3)	
+	player_right_selected = irandom_range(0,3)//irandom_range(0,3)	
 }
 
 //player_left_selected = CHARACTER.CAT
