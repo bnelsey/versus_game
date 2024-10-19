@@ -5,7 +5,6 @@ instance_create_depth(0,0,0,obj_fullscreen)
 instance_create_depth(0,0,0,obj_action)
 
 
-
 player_left_selected = irandom_range(0,3)//irandom_range(0,3)
 player_right_selected = irandom_range(0,3)//irandom_range(0,3)
 

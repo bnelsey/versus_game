@@ -1,4 +1,5 @@
 
+gpu_set_texfilter(true);
 if os_browser != browser_not_a_browser
 {
 	alarm[1] = room_speed * 0.25
