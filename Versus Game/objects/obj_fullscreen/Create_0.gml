@@ -6,7 +6,6 @@ if os_browser != browser_not_a_browser
 	base_height = room_height;
 	width = base_width;
 	height = base_height;	
-
 }
 else
 {
