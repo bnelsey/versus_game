@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"reset_character_positions",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"reset_character_positions",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

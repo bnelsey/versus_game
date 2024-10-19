@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"action_sfx",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"action_sfx",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
