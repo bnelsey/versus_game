@@ -31,12 +31,14 @@ switch(button_type)
 			obj_game.character_left.sprite_index = obj_game.character_sprites[button_id, ANIM.IDLE]
 			obj_game.player_left_selected = button_id
 			obj_game.character_left.type = button_id
+			obj_game.character_left.sprite_idle = obj_game.character_left.sprite_index
 		}
 		else
 		{
 			obj_game.character_right.sprite_index = obj_game.character_sprites[button_id, ANIM.IDLE]	
 			obj_game.player_right_selected = button_id
 			obj_game.character_right.type = button_id
+			obj_game.character_right.sprite_idle = obj_game.character_right.sprite_index
 		}
 		
 		
